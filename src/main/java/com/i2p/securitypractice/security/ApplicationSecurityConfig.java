@@ -64,7 +64,6 @@ public class ApplicationSecurityConfig extends WebSecurityConfigurerAdapter {
                yogeshUser ,
                soorajUser,
                 fahadUser
-
        );
     }
 }
